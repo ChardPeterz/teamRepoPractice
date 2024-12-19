@@ -21,7 +21,7 @@
 
 <h2 align="center"> List of Git commands </h2>
 
-    git clone ----------------'to clone repo'
+    git clone ----------------'to clone the repo'
     git init -----------------'initializing command'
     git config ---------------'setup command'
     git status ---------------'status command'
